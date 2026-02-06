@@ -381,6 +381,8 @@ body{
 }
 .graph-topbar{
     flex-direction: column;
+    gap: 10px;
+
 }
 
 .sidebar{
@@ -463,6 +465,7 @@ body{
 }
 
 }
+
 
 
 
