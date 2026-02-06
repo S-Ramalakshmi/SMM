@@ -102,6 +102,12 @@ body{
     width: 30.7%;
 }
 
+.choices{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 .group-cards{
     display: flex;
     justify-content: space-between;
@@ -111,7 +117,8 @@ body{
 
 .follower-title{
     display: flex;
-    gap: 15px;
+    align-items: center;
+    gap: 10px;
 }
 
 .count{
@@ -465,6 +472,7 @@ body{
 }
 
 }
+
 
 
 
